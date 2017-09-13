@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="spring-aop">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc" recursive="false" />
+  </library>
+</component>

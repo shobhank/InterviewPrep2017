@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="adminBean1.1" class="org.shobhank.design.spring.Admin" factory-method="getInstance"/>
+    <bean id="adminBean1.2" class="org.shobhank.design.spring.Admin" factory-method="getInstance"/>
+    <bean id="adminBean2.1" class="org.shobhank.design.spring.Admin"/>
+    <bean id="adminBean2.2" class="org.shobhank.design.spring.Admin"/>
+    <bean id="cashPay" class="org.shobhank.design.spring.CashPaymentImpl"></bean>
+    <bean id="payservice" class="org.shobhank.design.spring.PaymentServiceImpl">
+        <constructor-arg ref="cashPay"></constructor-arg>
+    </bean>
+    <bean id="dbconn-singleton" class="org.shobhank.design.spring.DatabaseConnection" scope="singleton">
+        <property name="url" value="localhost"></property>
+        <property name="port" value="1234"></property>
+        <property name="user"   value="root"></property>
+        <property name="password" value="password"></property>
+    </bean>
+    <bean id="dbconn-proto" class="org.shobhank.design.spring.DatabaseConnection" scope="prototype">
+        <property name="url" value="localhost"></property>
+        <property name="port" value="1234"></property>
+        <property name="user"   value="root"></property>
+        <property name="password" value="password"></property>
+    </bean>
+    <!--<bean id="cashPayAW" class="org.shobhank.design.spring.autowire.CashPayment"></bean>-->
+    <!--<bean id="payServiceAW" class="org.shobhank.design.spring.autowire.PayServiceImpl" autowire="byType">-->
+        <!--<property name="amount" value="53.39"></property>-->
+    <!--</bean>-->
+
+    <context:annotation-config/>
+    <bean id="cashPayANN" class="org.shobhank.design.spring.annotations.CashPayment"></bean>
+    <bean id="payServiceANN" class="org.shobhank.design.spring.annotations.PayServiceImpl">
+        <property name="amount" value="53.39"></property>
+    </bean>
+</beans>

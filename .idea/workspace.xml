@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43c4882d-ba6f-457a-8fc7-b475c464ef7f" name="Default" comment="" />
+    <ignored path="InterviewPrep2017.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/InterviewPrep2017$AdjustWordsInLine.coverage" NAME="AdjustWordsInLine Coverage Results" MODIFIED="1495503701878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.shobhank.dynamicprogramming.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InterviewPrep2017$HeapDemo.coverage" NAME="HeapDemo Coverage Results" MODIFIED="1494660052740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.shobhank.datastructures.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InterviewPrep2017$CompareVersions.coverage" NAME="CompareVersions Coverage Results" MODIFIED="1490899028927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.shobhank.miscellaneous.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="InterviewPrep2017" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CountAndSay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/CountAndSay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/shobhank/datastructures/MatrixDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+              <folding>
+                <element signature="method#count#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#printAllPaths#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#printPath#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#matrixMultiplication#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#print#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#fillWith1s#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#printNonRepeat#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#print#1;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#toBinary#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#createMatrix#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#display#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#reshape#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="class#Kadane#0;class#MatrixDemo#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Math.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java8/Lambda/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dump.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hackerank/Dump.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/org/shobhank/design/spring/AutoDiscoveryDemo.java" />
+        <option value="$PROJECT_DIR$/spring-autodiscovery.xml" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/design/spring/autodiscovery/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/design/spring/autodiscovery/AutoDiscoveryDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/design/spring/springdata/model/Employee.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/design/spring/springdata/dao/EmployeeDAO.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/design/spring/springdata/dao/EmployeeDAOImpl.java" />
+        <option value="$PROJECT_DIR$/spring-data.xml" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/design/spring/springdata/SpringDataDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/design/SingletonDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/WaitNotifyDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/threadpool/IThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/threadpool/Task.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/threadpool/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/threadpool/ThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/threadpool/ThreadPoolImpl.java" />
+        <option value="$PROJECT_DIR$/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SearchForRange.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LinkedListProblems.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ArrayProblems.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/SearchSort/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/matrix/MatrixFindAllSubSquareRectangleMatrix.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/datastructures/MatrixDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/graphs/Dependency.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/graphs/AdjacencyList.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/datastructures/Trie.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/ThreadPoolExample.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/Semaphore.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/ReentrantLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/ProducerConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/FileProcessing.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/CyclicBarrierDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/AtomicDemo.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Test.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Solution.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/MultiThread/Executor/ScheduledExecutor.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/datastructures/TreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/datastructures/Maths.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/datastructures/BitManipulation.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/datastructures/HeapDemo.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Hacker.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/datastructures/LinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/datastructures/Strings.java" />
+        <option value="$PROJECT_DIR$/src/org/shobhank/dump/Solution.java" />
+        <option value="$PROJECT_DIR$/src/hackerank/PowerSum.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ZigzagConversion.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/CountAndSay.java" />
+        <option value="$PROJECT_DIR$/src/hackerank/Dump.java" />
+        <option value="$PROJECT_DIR$/src/java8/Lambda/Math.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InterviewPrep2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPrep2017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterviewPrep2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPrep2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterviewPrep2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPrep2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterviewPrep2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPrep2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="flood&#9;PSI&#9;JAVA://org.shobhank.datastructures.MatrixDemo#flood&#10;AutComplete&#9;null&#9;null&#10;stream&#9;PSI&#9;JAVA://org.shobhank.SearchSort.MedianInStream&#10;nonrepea&#9;PSI&#9;JAVA://org.shobhank.datastructures.Strings#firstNonRepeating&#10;majorit&#9;PSI&#9;JAVA://org.shobhank.datastructures.Arrays#majorityElement&#10;leftside&#9;PSI&#9;JAVA://org.shobhank.datastructures.Tree#leftSideView&#10;threadpool&#9;FILE&#9;file:///Users/shobhanksharma/Tutorials/InterviewPrep2017/src/org/shobhank/MultiThread/ThreadPoolExample.java&#10;squareRoo&#9;PSI&#9;JAVA://org.shobhank.datastructures.Maths#squareRoot&#10;sqrt&#9;PSI&#9;JAVA://java.lang.Math#sqrt&#10;displayWr&#9;PSI&#9;JAVA://org.shobhank.datastructures.Strings#displayWrap&#10;spiral&#9;PSI&#9;JAVA://org.shobhank.datastructures.MatrixDemo#spiralTraversal&#10;roman&#9;PSI&#9;JAVA://org.shobhank.misc.RomanNumberToDecimal&#10;rabin&#9;PSI&#9;JAVA://org.shobhank.patternsearching.RabinKarp&#10;histogram&#9;PSI&#9;JAVA://org.shobhank.matrix.MaximumRectangularSubmatrixOf1s#maxHistogram&#10;balance&#9;PSI&#9;JAVA://org.shobhank.datastructures.Arrays#isBalanced&#10;po&#9;FILE&#9;file:///Users/shobhanksharma/Tutorials/InterviewPrep2017/src/org/shobhank/MultiThread/ThreadPoolImpl.java&#10;Link&#9;FILE&#9;file:///Users/shobhanksharma/Tutorials/InterviewPrep2017/src/org/shobhank/datastructures/LinkedListDemo.java&#10;stoc&#9;PSI&#9;JAVA://org.shobhank.miscellaneous.StockProfit&#10;sumclo&#9;PSI&#9;JAVA://org.shobhank.datastructures.Arrays#sumClosestToZero&#10;runlen&#9;PSI&#9;JAVA://org.shobhank.datastructures.Strings#runLengthEncoding&#10;angle&#9;PSI&#9;JAVA://org.shobhank.miscellaneous.AngleBetweenHourAndMinuteHand&#10;isbst&#9;PSI&#9;JAVA://org.shobhank.datastructures.Tree#isBST&#10;base&#9;PSI&#9;JAVA://org.shobhank.miscellaneous.ConvertToBaseN&#10;sumPa&#9;PSI&#9;JAVA://org.shobhank.datastructures.Arrays#sumPairWithoutSort&#10;random&#9;PSI&#9;JAVA://org.shobhank.miscellaneous.LoadBalancers#getRandom&#10;median &#9;PSI&#9;JAVA://org.shobhank.datastructures.Arrays#sortedMedian&#10;countIs&#9;PSI&#9;JAVA://org.shobhank.datastructures.Arrays#countIslands&#10;Pair&#9;PSI&#9;JAVA://org.shobhank.miscellaneous.Pair" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Dump/commons-pool2-2.4.2/commons-pool2-2.4.2.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.shobhank.design.spring.springdata" />
+      <recent name="org.shobhank.misc" />
+      <recent name="org.shobhank.datastructures" />
+      <recent name="org.shobhank" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.shobhank.miscellaneous" />
+      <recent name="org.shobhank.design" />
+      <recent name="org.shobhank.dynamicprogramming" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/org/shobhank/design" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/org/shobhank/miscellaneous" />
+      <recent name="$PROJECT_DIR$/src/org/shobhank/MultiThread" />
+      <recent name="$PROJECT_DIR$/src/org/shobhank/org/shobhank/matrix" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Math">
+    <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.CountAndSay" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="InterviewPrep2017" />
+      <envs />
+    </configuration>
+    <configuration name="Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="java8.Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="java8.Lambda.Math" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="InterviewPrep2017" />
+      <envs />
+    </configuration>
+    <configuration name="PowerSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="hackerank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="hackerank.PowerSum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="InterviewPrep2017" />
+      <envs />
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.shobhank.dump.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.shobhank.dump.Solution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="InterviewPrep2017" />
+      <envs />
+    </configuration>
+    <configuration name="ZigzagConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.ZigzagConversion" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="InterviewPrep2017" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="InterviewPrep2017" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PowerSum" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ZigzagConversion" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CountAndSay" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Math" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Math" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CountAndSay" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ZigzagConversion" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PowerSum" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43c4882d-ba6f-457a-8fc7-b475c464ef7f" name="Default" comment="" />
+      <created>1489866978128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489866978128</updated>
+      <workItem from="1489866979926" duration="12621000" />
+      <workItem from="1489887057880" duration="8829000" />
+      <workItem from="1490025871283" duration="4268000" />
+      <workItem from="1490037271162" duration="627000" />
+      <workItem from="1490135711766" duration="1419000" />
+      <workItem from="1490191849962" duration="790000" />
+      <workItem from="1490222375646" duration="10727000" />
+      <workItem from="1490295442982" duration="505000" />
+      <workItem from="1490323945003" duration="8079000" />
+      <workItem from="1490410955725" duration="52075000" />
+      <workItem from="1490661857826" duration="5535000" />
+      <workItem from="1490882341754" duration="35452000" />
+      <workItem from="1491348493504" duration="191000" />
+      <workItem from="1491469570978" duration="2528000" />
+      <workItem from="1491667362581" duration="6594000" />
+      <workItem from="1491869166127" duration="1437000" />
+      <workItem from="1492366296096" duration="6705000" />
+      <workItem from="1492493440689" duration="1299000" />
+      <workItem from="1492657302157" duration="6855000" />
+      <workItem from="1492746334465" duration="4061000" />
+      <workItem from="1492882391835" duration="23841000" />
+      <workItem from="1493079547076" duration="9308000" />
+      <workItem from="1493212480132" duration="2192000" />
+      <workItem from="1493215106833" duration="1743000" />
+      <workItem from="1493233749495" duration="150000" />
+      <workItem from="1493440270553" duration="25448000" />
+      <workItem from="1493665225013" duration="300000" />
+      <workItem from="1493678868084" duration="6321000" />
+      <workItem from="1493910977971" duration="598000" />
+      <workItem from="1493940451544" duration="1911000" />
+      <workItem from="1494046397123" duration="23889000" />
+      <workItem from="1494560310912" duration="2199000" />
+      <workItem from="1494657726865" duration="25148000" />
+      <workItem from="1494885058019" duration="641000" />
+      <workItem from="1494885927760" duration="999000" />
+      <workItem from="1494898580189" duration="4603000" />
+      <workItem from="1494991112864" duration="8286000" />
+      <workItem from="1495080665573" duration="12099000" />
+      <workItem from="1495218088416" duration="1011000" />
+      <workItem from="1495236227173" duration="57722000" />
+      <workItem from="1495862651313" duration="6812000" />
+      <workItem from="1496165874089" duration="14949000" />
+      <workItem from="1496282458184" duration="1028000" />
+      <workItem from="1496508534965" duration="3235000" />
+      <workItem from="1496677949034" duration="5000" />
+      <workItem from="1496698150567" duration="1830000" />
+      <workItem from="1496701552296" duration="7878000" />
+      <workItem from="1496875577852" duration="624000" />
+      <workItem from="1496880973434" duration="11391000" />
+      <workItem from="1496955788814" duration="4965000" />
+      <workItem from="1496965177102" duration="8979000" />
+      <workItem from="1497030983728" duration="47442000" />
+      <workItem from="1497490349844" duration="3354000" />
+      <workItem from="1497969067826" duration="1522000" />
+      <workItem from="1498064462507" duration="3214000" />
+      <workItem from="1498258078851" duration="364000" />
+      <workItem from="1498928770005" duration="598000" />
+      <workItem from="1502079120229" duration="8743000" />
+      <workItem from="1503952612778" duration="67000" />
+      <workItem from="1505235392012" duration="1202000" />
+      <workItem from="1505258933575" duration="18000" />
+      <workItem from="1505326854272" duration="2012000" />
+      <workItem from="1505332505446" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="509546000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31204644" sideWeight="0.6144492" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27687776" sideWeight="0.3855508" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23462088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3460972" sideWeight="0.40057224" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31369662" sideWeight="0.49427754" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43804035" sideWeight="0.4914163" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java</url>
+          <line>118</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/misc/AddTwoBigInt.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/matrix/LongestConsecutiveIntegerInUnsorted2DArray.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/SearchSort/MedianInStream.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/matrix/MaximumRectangularSubmatrixOf1s.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/miscellaneous/WinnerWithBeautifulNumber.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/miscellaneous/SuffixArray.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/misc/NumberToWord.java</url>
+          <line>154</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/LinkedListDemo.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java</url>
+          <line>697</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java</url>
+          <line>713</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/LinkedListDemo.java</url>
+          <line>513</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/TreeDemo.java</url>
+          <line>381</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/TreeDemo.java</url>
+          <line>346</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java</url>
+          <line>339</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/LinkedListDemo.java</url>
+          <line>431</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/QueueDemo.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Strings.java</url>
+          <line>417</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Maths.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/HeapDemo.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/HeapDemo.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java</url>
+          <line>790</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java</url>
+          <line>825</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/design/DeckOfCards/Deck.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/MultiThread/ThreadLocalDemo.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/MultiThread/ThreadLocalDemo.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/design/shoppingcart/ShoppingCart.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java</url>
+          <line>390</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/BitManipulation.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/MatrixDemo.java</url>
+          <line>142</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/design/prototype/Shape.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/MultiThread/WaitNotifyDemo.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/MultiThread/WaitNotifyDemo.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ArrayProblems.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ArrayProblems.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/LinkedListProblems.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Maths.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Maths.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Maths.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/MatrixDemo.java</url>
+          <line>288</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/Arrays.java</url>
+          <line>4611</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java</url>
+          <line>986</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/SearchSort/BinarySearch.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/TreeDemo.java</url>
+          <line>245</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Strings.java</url>
+          <line>454</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/MatrixDemo.java</url>
+          <line>328</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/misc/RomanNumberToDecimal.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Trie.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Solution.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/LinkedListDemo.java</url>
+          <line>568</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/LinkedListDemo.java</url>
+          <line>564</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shobhank/datastructures/Strings.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hackerank/PowerSum.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/CountAndSay.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="147" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/SearchSort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="1899" column="8" lean-forward="false" selection-start-line="1899" selection-start-column="8" selection-end-line="1899" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/datastructures/NAryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-458">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/datastructures/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="126" column="42" lean-forward="false" selection-start-line="126" selection-start-column="42" selection-end-line="126" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/WaitNotifyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/ThreadPoolExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="45" column="34" lean-forward="false" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/ThreadOrdering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/ThreadLocalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#573#574#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#641#642#0" expanded="false" />
+            <element signature="e#686#687#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/SingleQueueDomainTableUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="117" column="41" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/Semaphore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/ReentrantLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/BlockingQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/ProducerConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="69" column="15" lean-forward="false" selection-start-line="69" selection-start-column="15" selection-end-line="69" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/MutexLocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-686">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/MultithreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/JoinDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/Join.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/FileProcessing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="52" column="47" lean-forward="false" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/CyclicBarrierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/AtomicDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1476">
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/threadpool/IThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#966#967#0" expanded="false" />
+            <element signature="e#997#998#0" expanded="false" />
+            <element signature="e#1107#1108#0" expanded="false" />
+            <element signature="e#1141#1142#0" expanded="false" />
+            <element signature="e#1439#1440#0" expanded="false" />
+            <element signature="e#1471#1472#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="283" column="43" lean-forward="false" selection-start-line="283" selection-start-column="43" selection-end-line="283" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/Executor/ScheduledExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/matrix/LongestConsecutiveIntegerInUnsorted2DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" column="33" lean-forward="false" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/matrix/MaximumRectangularSubmatrixOf1s.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/datastructures/BitManipulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="41" column="22" lean-forward="false" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding>
+            <element signature="docComment;class#BitManipulation#0" expanded="false" />
+            <element signature="docComment;method#swapEvenOddBits#0;class#BitManipulation#0" expanded="false" />
+            <element signature="method#twoNumbersOccuringOddTimes#0;class#BitManipulation#0" expanded="false" />
+            <element signature="method#sum#0;class#BitManipulation#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/datastructures/Maths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="385" column="31" lean-forward="false" selection-start-line="385" selection-start-column="31" selection-end-line="385" selection-end-column="31" />
+          <folding>
+            <element signature="method#hammingDistance#0;class#Maths#0" expanded="false" />
+            <element signature="method#isPalindrome#0;class#Maths#0" expanded="false" />
+            <element signature="method#parseInt#0;class#Maths#0" expanded="false" />
+            <element signature="method#parseDouble#0;class#Maths#0" expanded="false" />
+            <element signature="method#floatingPointConversion#0;class#Maths#0" expanded="false" />
+            <element signature="method#excelColumnToNumber#0;class#Maths#0" expanded="false" />
+            <element signature="method#excelNumberToColumn#0;class#Maths#0" expanded="false" />
+            <element signature="method#excelNumberToChar#0;class#Maths#0" expanded="false" />
+            <element signature="method#calculate#0;class#Maths#0" expanded="false" />
+            <element signature="method#gcd#0;class#Maths#0" expanded="false" />
+            <element signature="method#differenceBetweenDays#0;class#Maths#0" expanded="false" />
+            <element signature="method#isLeapYear#0;class#Maths#0" expanded="false" />
+            <element signature="method#toBaseN#0;class#Maths#0" expanded="false" />
+            <element signature="method#binaryToDecimal#0;class#Maths#0" expanded="false" />
+            <element signature="method#decimalToBinary#0;class#Maths#0" expanded="false" />
+            <element signature="method#calculate#1;class#Maths#0" expanded="false" />
+            <element signature="method#isFibo#0;class#Maths#0" expanded="false" />
+            <element signature="method#power#0;class#Maths#0" expanded="false" />
+            <element signature="method#reverse#0;class#Maths#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/design/LRUCacheDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/design/ImmutableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/design/DeckOfCards/CardDeckDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Hacker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/datastructures/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="method#isPalindromeAnagram#0;class#Strings#0" expanded="false" />
+            <element signature="method#editDistance#0;class#Strings#0" expanded="false" />
+            <element signature="method#isVersionGreaterThanOrEqualTo10Dot3#0;class#Strings#0" expanded="false" />
+            <element signature="docComment;method#decode#0;class#Strings#0" expanded="false" />
+            <element signature="method#decode#0;class#Strings#0" expanded="false" />
+            <element signature="method#firstNonRepeating#0;class#Strings#0" expanded="false" />
+            <element signature="method#reverseInPlace#0;class#Strings#0" expanded="false" />
+            <element signature="method#printDuplicateCharacters#0;class#Strings#0" expanded="false" />
+            <element signature="method#reverseString#0;class#Strings#0" expanded="false" />
+            <element signature="method#runLengthEncoding#0;class#Strings#0" expanded="false" />
+            <element signature="method#removeDuplicates#0;class#Strings#0" expanded="false" />
+            <element signature="method#removeDupWithOrder#0;class#Strings#0" expanded="false" />
+            <element signature="method#isAnagram#0;class#Strings#0" expanded="false" />
+            <element signature="method#isAnagramLinear#0;class#Strings#0" expanded="false" />
+            <element signature="method#removeMask#0;class#Strings#0" expanded="false" />
+            <element signature="method#longestSSNonRepeat#0;class#Strings#0" expanded="false" />
+            <element signature="method#removePairs#0;class#Strings#0" expanded="false" />
+            <element signature="method#moveSpacesToFront#0;class#Strings#0" expanded="false" />
+            <element signature="method#anagrams#0;class#Strings#0" expanded="false" />
+            <element signature="method#sortString#0;class#Strings#0" expanded="false" />
+            <element signature="method#display#0;class#Strings#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/dump/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/datastructures/HeapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="119" column="32" lean-forward="false" selection-start-line="119" selection-start-column="32" selection-end-line="119" selection-end-column="32" />
+          <folding>
+            <element signature="method#checkIfMinHeapForLevelOrderTraversal#0;class#HeapDemo#0" expanded="false" />
+            <element signature="method#rearrangeWithoutAdjacentDups#0;class#HeapDemo#0" expanded="false" />
+            <element signature="method#sumOfAllElementsBetweenK1thAndK2thSmallestElement#0;class#HeapDemo#0" expanded="false" />
+            <element signature="class#KthLargest#0" expanded="false" />
+            <element signature="class#MinHeap#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/datastructures/TreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4158">
+          <caret line="370" column="23" lean-forward="false" selection-start-line="370" selection-start-column="23" selection-end-line="370" selection-end-column="23" />
+          <folding>
+            <element signature="method#insert#0;class#Tree#0" expanded="false" />
+            <element signature="method#inOrder#0;class#Tree#0" expanded="false" />
+            <element signature="method#preOrder#0;class#Tree#0" expanded="false" />
+            <element signature="method#postOrder#0;class#Tree#0" expanded="false" />
+            <element signature="class#MinMaxHD#0;class#Tree#0" expanded="false" />
+            <element signature="method#constructCompleteBinaryTree#0;class#Tree#0" expanded="false" />
+            <element signature="method#nextRightNode#0;class#Tree#0" expanded="false" />
+            <element signature="method#printKDistantNodesFromANode#0;class#Tree#0" expanded="false" />
+            <element signature="method#kDistantNodeFromRoot#0;class#Tree#0" expanded="false" />
+            <element signature="method#printWithKLeaves#0;class#Tree#0" expanded="false" />
+            <element signature="method#minPath#0;class#Tree#0" expanded="false" />
+            <element signature="method#minValue#0;class#Tree#0" expanded="false" />
+            <element signature="method#countNode#0;class#Tree#0" expanded="false" />
+            <element signature="method#isSame#0;class#Tree#0" expanded="false" />
+            <element signature="method#height#0;class#Tree#0" expanded="false" />
+            <element signature="method#levelOrder#0;class#Tree#0" expanded="false" />
+            <element signature="method#printLevel#0;class#Tree#0" expanded="false" />
+            <element signature="method#levelOrderReverse#0;class#Tree#0" expanded="false" />
+            <element signature="method#mirror#0;class#Tree#0" expanded="false" />
+            <element signature="method#isSymmetric#0;class#Tree#0" expanded="false" />
+            <element signature="method#isSymmetricUtil#0;class#Tree#0" expanded="false" />
+            <element signature="method#printAllPaths#0;class#Tree#0" expanded="false" />
+            <element signature="method#printPath#0;class#Tree#0" expanded="false" />
+            <element signature="method#bfs#0;class#Tree#0" expanded="false" />
+            <element signature="method#countLeaves#0;class#Tree#0" expanded="false" />
+            <element signature="method#printSpiralLevelOrder#0;class#Tree#0" expanded="false" />
+            <element signature="method#printSpiralLevel#0;class#Tree#0" expanded="false" />
+            <element signature="method#childrenSum#0;class#Tree#0" expanded="false" />
+            <element signature="method#diameter#0;class#Tree#0" expanded="false" />
+            <element signature="method#isHeightBalanced#0;class#Tree#0" expanded="false" />
+            <element signature="method#inOrderNonRec#0;class#Tree#0" expanded="false" />
+            <element signature="method#inOrderNonRecRev#0;class#Tree#0" expanded="false" />
+            <element signature="method#preOrderNonRec#0;class#Tree#0" expanded="false" />
+            <element signature="method#postOrderNonRec#0;class#Tree#0" expanded="false" />
+            <element signature="method#hasPathSum#0;class#Tree#0" expanded="false" />
+            <element signature="method#buildTree#0;class#Tree#0" expanded="false" />
+            <element signature="method#buildTreeUtil#0;class#Tree#0" expanded="false" />
+            <element signature="method#findInInOrder#0;class#Tree#0" expanded="false" />
+            <element signature="method#doubleTree#0;class#Tree#0" expanded="false" />
+            <element signature="method#maxWidth#0;class#Tree#0" expanded="false" />
+            <element signature="method#nodesAtLevel#0;class#Tree#0" expanded="false" />
+            <element signature="method#isStructuralMirror#0;class#Tree#0" expanded="false" />
+            <element signature="method#levelOfNode#0;class#Tree#0" expanded="false" />
+            <element signature="method#printAncestors#0;class#Tree#0" expanded="false" />
+            <element signature="method#isSumTree#0;class#Tree#0" expanded="false" />
+            <element signature="method#makeSumTree#0;class#Tree#0" expanded="false" />
+            <element signature="method#getSumSubTree#0;class#Tree#0" expanded="false" />
+            <element signature="method#isSubtree#0;class#Tree#0" expanded="false" />
+            <element signature="method#connectLevelNodes#0;class#Tree#0" expanded="false" />
+            <element signature="method#buildPreOrderTree#0;class#Tree#0" expanded="false" />
+            <element signature="method#findSmallerIndex#0;class#Tree#0" expanded="false" />
+            <element signature="method#findGreaterIndex#0;class#Tree#0" expanded="false" />
+            <element signature="method#joinAdjacent#0;class#Tree#0" expanded="false" />
+            <element signature="method#arrayToBST#0;class#Tree#0" expanded="false" />
+            <element signature="method#isCompleteTree#0;class#Tree#0" expanded="false" />
+            <element signature="method#successor#0;class#Tree#0" expanded="false" />
+            <element signature="method#lca#0;class#Tree#0" expanded="false" />
+            <element signature="method#printRange#0;class#Tree#0" expanded="false" />
+            <element signature="method#isBST#0;class#Tree#0" expanded="false" />
+            <element signature="method#delete#0;class#Tree#0" expanded="false" />
+            <element signature="method#printLeaves#0;class#Tree#0" expanded="false" />
+            <element signature="method#printLeftBoundary#0;class#Tree#0" expanded="false" />
+            <element signature="method#printRightBoundary#0;class#Tree#0" expanded="false" />
+            <element signature="method#boundaryTraversal#0;class#Tree#0" expanded="false" />
+            <element signature="class#Node#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/datastructures/LinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="526" column="25" lean-forward="false" selection-start-line="526" selection-start-column="25" selection-end-line="526" selection-end-column="25" />
+          <folding>
+            <element signature="method#add#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#append#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#display#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#delete#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#getMiddle#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#nthFromEnd#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#reverse#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#isCircular#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#isPalindrome#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#sortedInsert#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#intersection#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#count#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#removeDuplicates#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#printBackwards#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#mergeSort#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#merge#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#getMiddle#1;class#LinkedList#0" expanded="false" />
+            <element signature="method#reverseGroup#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#deleteLesserNode#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#deleteNAfterM#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#seggregate#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#mergeAlternate#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#pairSwapLink#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#addNumbers#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#rotate#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#countNodes#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#add#1;class#LinkedList#0" expanded="false" />
+            <element signature="method#traverse#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#median#0;class#LinkedList#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/datastructures/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="94" column="25" lean-forward="false" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
+          <folding>
+            <element signature="method#display#0;class#Arrays#0" expanded="false" />
+            <element signature="method#displayPoints#0;class#Arrays#0" expanded="false" />
+            <element signature="method#countInversion#0;class#Arrays#0" expanded="false" />
+            <element signature="method#mergeInversions#0;class#Arrays#0" expanded="false" />
+            <element signature="method#rotateArrayByK#0;class#Arrays#0" expanded="false" />
+            <element signature="method#minDistance1d#0;class#Arrays#0" expanded="false" />
+            <element signature="method#reverse#0;class#Arrays#0" expanded="false" />
+            <element signature="method#dutchFlag#0;class#Arrays#0" expanded="false" />
+            <element signature="method#evenOddPosition#0;class#Arrays#0" expanded="false" />
+            <element signature="method#kthMin#0;class#Arrays#0" expanded="false" />
+            <element signature="method#partition#0;class#Arrays#0" expanded="false" />
+            <element signature="method#swap#0;class#Arrays#0" expanded="false" />
+            <element signature="method#majorityElement#0;class#Arrays#0" expanded="false" />
+            <element signature="method#oddNumberOfRep#0;class#Arrays#0" expanded="false" />
+            <element signature="method#removeDuplicates#0;class#Arrays#0" expanded="false" />
+            <element signature="method#searchCircularSorted#0;class#Arrays#0" expanded="false" />
+            <element signature="method#seggregate0s1s#0;class#Arrays#0" expanded="false" />
+            <element signature="method#display#1;class#Arrays#0" expanded="false" />
+            <element signature="method#shiftZeros#0;class#Arrays#0" expanded="false" />
+            <element signature="method#shiftZerosWithOrder#0;class#Arrays#0" expanded="false" />
+            <element signature="method#sortedMedian#0;class#Arrays#0" expanded="false" />
+            <element signature="method#sortedMedianUtil#0;class#Arrays#0" expanded="false" />
+            <element signature="method#sumClosestToZero#0;class#Arrays#0" expanded="false" />
+            <element signature="method#threeSum#0;class#Arrays#0" expanded="false" />
+            <element signature="method#duplicateElements#0;class#Arrays#0" expanded="false" />
+            <element signature="method#maxSumSubsequence#0;class#Arrays#0" expanded="false" />
+            <element signature="method#sumPair#0;class#Arrays#0" expanded="false" />
+            <element signature="method#sumPairWithoutSort#0;class#Arrays#0" expanded="false" />
+            <element signature="method#wordDistanceFind#0;class#Arrays#0" expanded="false" />
+            <element signature="method#spiralDisplay#0;class#Arrays#0" expanded="false" />
+            <element signature="method#getMissingSorted#0;class#Arrays#0" expanded="false" />
+            <element signature="docComment;method#findMissing#0;class#Arrays#0" expanded="false" />
+            <element signature="method#findMissing#0;class#Arrays#0" expanded="false" />
+            <element signature="method#seggregate#0;class#Arrays#0" expanded="false" />
+            <element signature="method#union#0;class#Arrays#0" expanded="false" />
+            <element signature="method#intersect#0;class#Arrays#0" expanded="false" />
+            <element signature="method#evenOddPos#0;class#Arrays#0" expanded="false" />
+            <element signature="method#mostFrequentInteger#0;class#Arrays#0" expanded="false" />
+            <element signature="method#isBalanced#0;class#Arrays#0" expanded="false" />
+            <element signature="method#isValidMap#0;class#Arrays#0" expanded="false" />
+            <element signature="method#productPair#0;class#Arrays#0" expanded="false" />
+            <element signature="method#insertSpaces#0;class#Arrays#0" expanded="false" />
+            <element signature="method#equilibriumIndex#0;class#Arrays#0" expanded="false" />
+            <element signature="docComment;method#subarrayXORs#0;class#Arrays#0" expanded="false" />
+            <element signature="method#subarrayXORs#0;class#Arrays#0" expanded="false" />
+            <element signature="docComment;method#countStepsToTransform#0;class#Arrays#0" expanded="false" />
+            <element signature="method#countStepsToTransform#0;class#Arrays#0" expanded="false" />
+            <element signature="method#leaders#0;class#Arrays#0" expanded="false" />
+            <element signature="method#firstAndSecondSmallest#0;class#Arrays#0" expanded="false" />
+            <element signature="method#hasConsecutiveIntegers#0;class#Arrays#0" expanded="false" />
+            <element signature="method#findUniqueStrings#0;class#Arrays#0" expanded="false" />
+            <element signature="method#moveZerosWithOrder#0;class#Arrays#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/threadpool/ThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/threadpool/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/threadpool/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/MultiThread/threadpool/ThreadPoolImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerank/PowerSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ZigzagConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/CountAndSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shobhank/datastructures/MatrixDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <folding>
+            <element signature="method#count#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#printAllPaths#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#printPath#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#matrixMultiplication#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#print#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#fillWith1s#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#printNonRepeat#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#print#1;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#toBinary#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#createMatrix#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#display#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#reshape#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="class#Kadane#0;class#MatrixDemo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerank/Dump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/Lambda/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>InterviewPrep2017</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>spring-aop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
